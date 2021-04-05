@@ -5,7 +5,7 @@
   + Chromedriver (version will be depend on of your chrome version)
     + https://chromedriver.chromium.org/downloads
   + input.xlsx
-    + ouput.xlsx must refer to input.xlsx, need to know pre-data to check
+    + ouput.xlsx must refer to input.xlsx because it needs to know pre-data to check
       + Solved problems
       + Rank
       + Absent
@@ -22,3 +22,9 @@ import openpyxl
 + Pandas makes we can handle excel and csv files as dataframe
 + Time is used to check whether user has signed in acmicpc.net or not
 + openpyxl is to wipe out dependency problem
+
+#### Output
++ output.txt
+  + raw data, crawled from Web site
++ output.xlsx
+  + Processed data, saved as xlsx format
