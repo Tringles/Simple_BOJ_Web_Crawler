@@ -25,6 +25,6 @@ import openpyxl
 
 #### Output
 + output.txt
-  + raw data, crawled from Web site
+  + Raw data, crawled from Web site
 + output.xlsx
   + Processed data, saved as xlsx format
