@@ -35,7 +35,7 @@ f.close()
 crawled = pd.read_csv('output.txt', names=['ID', 'Solved'], delimiter = '\t')
 
 
-df=pd.read_excel('intput.xlsx', engine = 'openpyxl')
+df=pd.read_excel('input.xlsx', engine = 'openpyxl')
 end = df.index.size
 cnt = 1
 for i in range(0, end):
