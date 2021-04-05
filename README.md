@@ -5,7 +5,7 @@
   + Chromedriver (version will be depend on of your chrome version)
     + https://chromedriver.chromium.org/downloads
   + input.xlsx
-    + ouput.xlsx must refer to input.xlsx because it needs to know pre-data to check
+    + output.xlsx must refer to input.xlsx because it needs to know pre-data to check
       + Solved problems
       + Rank
       + Absent
